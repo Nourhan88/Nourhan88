@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Nourhan88
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-
-<!---
-Nourhan88/Nourhan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Skills:
+Python Developer
+Database / Distributed Database
+Data Wrangling and Cleaning
+Exploratory Data Analysis (EDA)
+Data Visualization (Matplotlib, Seaborn, Tableau)
+Statistical Modeling and Analysis
+Machine Learning Basics
+Business Intelligence
